@@ -11,4 +11,3 @@ sum_result = number1 + number2
 
 # Printing the sum
 print("The sum of", number1, "and", number2, "is:", sum_result)
-
